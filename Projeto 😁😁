@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Site muito legal</title>
+</head>
+
+<body>
+    <header class="container text-center">
+        <img src="img/avatar-perfil.png" alt="" class="rounded-circle" width="150" height="150" srcset="">
+        <p class="lead">My name is Pedro Dezorzi</p>
+        <h1>Eu queria estar na minha casa</h1>
+        <p>Bom, falando um pouco de mim eu gosto bastante de carros e de ficar em casa, com muita
+            sorte eu consegui comprar um carro com 16 anos de idade, agora eu quero arrumar ele 
+            para o vender e conseguir dinheiro para uma casa. Gosto também de jogar alguns jogos 
+            no meu computador, já tentei aprender algo sobre programação mas não sei nada.
+        <p></p>
+        <div>
+        </div>
+    </header>
+    <main class="container">
+        <h2>Meu carro</h2>
+        <div class="row">
+            <div class="col-md-4">
+                <div class="card" style="width: 18rem;">
+                    <img src="..." class="card-img-top" alt="...">
+                    <div class="card-body">
+                      <h5 class="card-title">Escort Hobby</h5>
+                      <p class="card-text">Bom, esse e meu carro, ele tem um motor cht 1.0 de incríveis 52hp, parece muito mas e pouco queria melhorar ele ao maxímo.</p>
+                      <a href="#" class="btn btn-primary">Imagens do meu carro</a>
+                    </div>
+                  </div>
+            </div>
+        </div>
+
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
